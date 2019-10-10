@@ -1,4 +1,4 @@
-# Toggle-All-Deformers-and-Effectors
+# Toggle All Deformers and Effectors C4D plugins
 
 What these two little plugins do? Well, they speed up your workflow.
 
