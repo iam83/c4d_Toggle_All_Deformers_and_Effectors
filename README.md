@@ -19,4 +19,5 @@ Installation:
 Tip:
 Add the plugins to your favorite
 palette via "Customize Commands... (Shift+F12)"
-Take a look at the RS_tag_example.gif file
+
+
